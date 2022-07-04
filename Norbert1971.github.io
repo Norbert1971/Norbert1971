@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!doctype HTML>
 <html lang="PL">
     <head>
 
