@@ -1,4 +1,5 @@
-# Norbert1971/norbert1971.github.io
+
+#To jest repozytorium : Norbert1971/norbert1971.github.io
  
  
- Index.html jest ok
+ #Katalog RepozytoriumGitHub/ZGita.githib.io na pulpicie
